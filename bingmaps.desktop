@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Bing Maps (Unofficial)
+Comment=Bing Maps Web App (unofficial) for Ubuntu Touch devices.
+Type=Application
+Icon=bingmaps.png
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=http://www.bing.com/* http://www.bing.com/maps/
+Terminal=false
+X-Ubuntu-Touch=true

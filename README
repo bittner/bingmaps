@@ -15,6 +15,11 @@ Those algorithms were commercially developed in the United States by Vexcel
 Corporation, Boulder (CO), an entity founded by Austrian university professor
 Franz Leberl, which has been acquired by Microsoft in 2006.
 
+The normal street maps as well as the routing service are provided by HERE,
+formerly known as Ovi Maps and Nokia Maps. You may want to try the HERE app
+on your Ubuntu Touch device for a more feature-rich implementation, and a
+slightly better working (GPS) locate function.
+
 This web app is not affiliated with Microsoft. The Bing name, Bing Maps,
 associated trade marks and logos including the Bing logo are trade marks of
 Microsoft or related entities.

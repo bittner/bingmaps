@@ -1,6 +1,6 @@
 {
     "name": "bingmaps.peter-bittner",
-    "description": "Bing Maps Web App (unofficial) for Ubuntu Touch devices",
+    "description": "Bing Maps Web App (unofficial) for Ubuntu Touch",
     "architecture": "all",
     "title": "Bing Maps (Unofficial)",
     "hooks": {
@@ -9,7 +9,7 @@
             "desktop": "bingmaps.desktop"
         }
     },
-    "version": "0.2",
+    "version": "0.3",
     "maintainer": "Peter Bittner <django@bittner.it>",
     "framework": "ubuntu-sdk-15.04"
 }
